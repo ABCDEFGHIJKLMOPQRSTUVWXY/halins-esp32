@@ -1,0 +1,7 @@
+
+esp32-start/.vscode/extensions.json
+esp32-start/include/README
+esp32-start/lib/README
+esp32-start/platformio.ini
+esp32-start/src/main.cpp
+esp32-start/test/README
